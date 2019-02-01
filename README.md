@@ -1,4 +1,4 @@
-# xfn-admin
+# xiaofeiniu-admin
 
 ## Project setup
 ```
